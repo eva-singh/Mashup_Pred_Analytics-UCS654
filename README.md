@@ -12,7 +12,7 @@ The program downloads songs of a given singer from YouTube, extracts audio, trim
 - Python **3.11** (recommended)
 - FFmpeg
 - Internet connection
-- 
+   
 All required libraries are listed in `requirements.txt`.
 pip install -r requirements.txt
 
