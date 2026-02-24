@@ -1,0 +1,6 @@
+downloads/
+mp3/
+trimmed/
+*.mp3
+*.mp4
+__pycache__/
